@@ -1,34 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ppxml xmlns="http://panasonic/sip_phone" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://panasonic/sip_screen sip_screen.xsd">
-<Screen name="screen1" version="2.0">
-<PhoneBook version="1.0">
-<Personnel id="1">
-<Name>Test User01</Name>
-<Ruby>Test01</Ruby>
-<PhoneNums>
-<PhoneNum type="ext">6789</PhoneNum>
-<PhoneNum type="company">382719</PhoneNum>
-<PhoneNum type="mobile">928378</PhoneNum> </PhoneNums>
-</Personnel>
-<Personnel id="2">
-<Name>Test User01</Name>
-<Ruby>Test01</Ruby>
-<PhoneNums>
-<PhoneNum type="ext">6789</PhoneNum>
-</PhoneNums>
-<PhoneNums>
-<PhoneNum type="ext">6789</PhoneNum>
-<PhoneNum type="company">382719</PhoneNum>
-<PhoneNum type="mobile">928378</PhoneNum>
-<PhoneNum type="home">6789</PhoneNum>
-<PhoneNum type="etc">382719</PhoneNum>
-<PhoneNum type="ext1">6058</PhoneNum>
-<PhoneNum type="company1">777058</PhoneNum>
-<PhoneNum type="mobile1">888012</PhoneNum>
-<PhoneNum type="home1">6058</PhoneNum>
-<PhoneNum type="etc1">777058</PhoneNum>
-</PhoneNums>
-</Personnel>
-</PhoneBook>
-</Screen>
+<ppxml xmlns="http://panasonic/sip_phone" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://panasonic/sip_phonesip_phone.xsd">
+  <Screen version="3.0">
+    <PhoneBook version="2.0">
+      <Personnel id="1">
+        <Name>David Allan</Name>
+        <PhoneNums>
+          <PhoneNum type="ext">3920</PhoneNum>
+          <PhoneNum type="home">99998888</PhoneNum>
+        </PhoneNums>
+      </Personnel>
+      <Personnel id="2">
+        <Name>George</Name>
+        <PhoneNums>
+          <PhoneNum type="ext">223</PhoneNum>
+          <PhoneNum type="mobile">088011</PhoneNum>
+          <PhoneNum type="company">999</PhoneNum>
+        </PhoneNums>
+      </Personnel>
+    </PhoneBook>
+  </Screen>
 </ppxml>
