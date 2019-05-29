@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppxml xmlns="http://panasonic/sip_phone" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://panasonic/sip_phone_directory/sip_phone_phonebook.xsd">
+  <Screen version="2.0”><PhoneBook version=" 2.0”="2.0”">
+    <Personnel id="1">
+      <Name>Test User01</Name>
+      <Ruby>Test01</Ruby>
+      <PhoneNums>
+        <PhoneNum type="ext">6789</PhoneNum>
+        <PhoneNum type="company">382719</PhoneNum>
+        <PhoneNum type="mobile">928378</PhoneNum>
+        <PhoneNum type="home">6789</PhoneNum>
+        <PhoneNum type="etc">382719</PhoneNum>
+      </PhoneNums>
+    </Personnel>
+    <Personnel id="2">
+      <Name>Test User02</Name>
+      <Ruby>Test02</Ruby>
+      <PhoneNums>
+        <PhoneNum type="ext">6058</PhoneNum>
+        <PhoneNum type="company">777058</PhoneNum>
+        <PhoneNum type="mobile">888012</PhoneNum>
+        <PhoneNum type="home">6058</PhoneNum>
+        <PhoneNum type="etc">777058</PhoneNum>
+      </PhoneNums>
+    </Personnel>
+    <Personnel id="3">
+      <Name>Test User03</Name>
+      <Ruby>Test03</Ruby>
+      <PhoneNums>
+        <PhoneNum type="ext">6001</PhoneNum>
+        <PhoneNum type="company">777001</PhoneNum>
+        <PhoneNum type="mobile">888001</PhoneNum>
+        <PhoneNum type="home">6001</PhoneNum>
+        <PhoneNum type="etc">777001</PhoneNum>
+      </PhoneNums>
+    </Personnel>
+    <Personnel id="4">
+      <Name>Test user04</Name>
+      <Ruby>Test04</Ruby>
+      <PhoneNums>
+        <PhoneNum type="ext">6053</PhoneNum>
+        <PhoneNum type="company">777053</PhoneNum>
+        <PhoneNum type="mobile">888053</PhoneNum>
+        <PhoneNum type="home">6053</PhoneNum>
+        <PhoneNum type="etc">777053</PhoneNum>
+      </PhoneNums>
+    </Personnel>
+    <Personnel id="5">
+      <Name>Test user05</Name>
+      <Ruby>Test05</Ruby>
+      <PhoneNums>
+        <PhoneNum type="ext">6002</PhoneNum>
+        <PhoneNum type="company">777002</PhoneNum>
+        <PhoneNum type="mobile">888002</PhoneNum>
+        <PhoneNum type="home">6002</PhoneNum>
+        <PhoneNum type="etc">777002</PhoneNum>
+      </PhoneNums>
+    </Personnel>
+  </PhoneBook>
+</Screen>
+</ppxml >
