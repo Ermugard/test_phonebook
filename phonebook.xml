@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ppxml xmlns="http://panasonic/sip_phone" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://panasonic/sip_phone_directory/sip_phone_phonebook.xsd">
-  <Screen version="2.0”><PhoneBook version=" 2.0”="2.0”">
+  <Screen version="2.0"><PhoneBook version="2.0">
     <Personnel id="1">
       <Name>Test User01</Name>
       <Ruby>Test01</Ruby>
